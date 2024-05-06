@@ -1,0 +1,37 @@
+ DATA STRUCTURES AND ALGORITHMS DESIGN
+ Course Title	Mathematical Foundations for Data Science
+Data mining
+Introduction to statistical method 
+introduction to data science
+Machine learning 
+Systems for Data Analytics
+Artificial & Computational Intelligence
+Data Visualization and Interpretation
+IR _ Information retrival
+DL - deep Learning
+
+
+
+What is generative AI
+Real world application 
+chatgpt architecture
+Building application using chatgpt 
+Retrival argumented generation 
+building RAG using open AI
+deployment of LLM 
+
+
+Python programming
+statistical fundemaentals and code with python 
+visulization with python 
+machine learning  with python 
+Neural Learning with python 
+Deep learning with python 
+Reinforcefment Learning with python
+Deep reinforcement learning with python
+prompt engineering and generative AI with python 
+create your own chatbot for business
+Azure ML
+ML flow
+MLops
+LLM ops 
